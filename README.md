@@ -9,6 +9,8 @@ It is part of the ExploreAI 2501 Data Science module.
 We used the **Vegetable Prices** from Kaggle:  
 [https://www.kaggle.com/datasets/ksamiksha19/vegetable-prices]
 
+Trello board: https://trello.com/invite/b/68a1be65fc3961c39dc55262/ATTI34a4e0d13276faef1d4bd3c3705e80fc98CDDE7D/my-trello-board
+
 ## 🔧 Tools Used
 
 - Python  
