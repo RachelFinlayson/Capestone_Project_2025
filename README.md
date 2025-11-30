@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300/0d1117/00ff88?text=Vegetable+Price+Forecasting+%7C+Time+Series+%2F+Machine+Learning+Capstone" alt="Vegetable Price Forecasting Banner">
+</p>
+
 # 📘 Vegetable Price Forecasting – Capstone Project
 *A complete end-to-end time-series forecasting workflow using Python, Jupyter Notebook, and Power BI.*
 
